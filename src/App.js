@@ -1,5 +1,5 @@
-import {useState, useEffect} from "react";
-import Movie from "./components/Movie.js";
+// import {useState, useEffect} from "react";
+// import Movie from "./components/Movie.js";
 import Home from "./routes/Home.js";
 import Detail from "./routes/Detail.js";
 
